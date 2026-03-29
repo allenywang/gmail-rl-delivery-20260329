@@ -1,5 +1,5 @@
 {
-  "baseUrl": "http://127.0.0.1:58217",
+  "baseUrl": "http://127.0.0.1:62421",
   "launchCommand": "pnpm start",
   "validationSteps": [
     "Reset the environment",
@@ -11,6 +11,6 @@
   "inboxThreadCountBefore": 2,
   "sentThreadCountAfter": 1,
   "activeSnapshotId": "snapshot-5",
-  "snapshotCount": 5,
+  "snapshotCount": 59,
   "sentThreadId": "thread-4"
 }
